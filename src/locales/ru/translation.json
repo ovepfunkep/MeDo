@@ -1,0 +1,53 @@
+{
+  "app": {
+    "title": "MeDo",
+    "subtitle": "Трекер задач"
+  },
+  "navigation": {
+    "active": "Активные",
+    "completed": "Завершённые"
+  },
+  "task": {
+    "title": "Название задачи",
+    "titleRequired": "Название задачи *",
+    "description": "Описание",
+    "descriptionPlaceholder": "Добавьте описание (необязательно)",
+    "titlePlaceholder": "Введите название задачи",
+    "pinned": "Закрепить задачу",
+    "colorLabel": "Цвет карточки",
+    "save": "Сохранить",
+    "edit": "Редактировать задачу",
+    "new": "Новая задача",
+    "addFirst": "Нажмите кнопку \"+\" чтобы добавить первую задачу",
+    "noTasks": "Нет задач",
+    "noCompletedTasks": "Нет завершённых задач",
+    "completedTasksHint": "Завершённые задачи будут отображаться здесь"
+  },
+  "colors": {
+    "default": "По умолчанию",
+    "yellow": "Жёлтый",
+    "blue": "Синий",
+    "green": "Зелёный",
+    "pink": "Розовый",
+    "purple": "Фиолетовый"
+  },
+  "actions": {
+    "complete": "Завершить",
+    "restore": "Восстановить",
+    "delete": "Удалить",
+    "undo": "Отменить",
+    "pin": "Закрепить",
+    "unpin": "Открепить",
+    "add": "Добавить задачу"
+  },
+  "messages": {
+    "taskCompleted": "Задача завершена",
+    "taskRestored": "Задача восстановлена",
+    "taskDeleted": "Задача удалена"
+  },
+  "accessibility": {
+    "toggleTheme": "Переключить тему",
+    "toggleLanguage": "Переключить язык"
+  }
+}
+
